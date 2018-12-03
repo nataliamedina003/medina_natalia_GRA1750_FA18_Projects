@@ -1,0 +1,50 @@
+a{ color: 	#BC8F8F;
+	text-decoration: none;
+}
+a:hover{
+	color: #FF00FF;
+}
+a:active{
+	color: #FF00FF;
+}
+a:visited{
+	color: 	#00FF00
+}
+
+#other 
+p:hover {
+	color: #48D1CC;
+	border: 2px solid #CD5C5C;
+	top:-1000px;
+	left: -100px;
+	width: 15%;
+	margin: 0 0 0 10px;
+}
+#cyan{
+	color: #00FFFF;
+}
+#mediumaquamarine{
+	color: #66CDAA;
+}
+#darkturquoise{
+	color: #00CED1
+}
+#cadetblue{
+	color: #5F9EA0
+}
+#darkcyan{
+	color:#008B8B
+	background-color: black; 
+}
+p:first-letter{
+	color:blue;
+	font-weight:bold;
+	font-size:20px; 
+}
+
+
+	
+	
+	
+		
+

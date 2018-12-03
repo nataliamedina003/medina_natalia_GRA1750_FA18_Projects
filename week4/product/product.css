@@ -1,0 +1,81 @@
+div{
+	width: 800px;
+	height: auto;
+	background-color: #008080;
+	margin: 0 auto;
+} 
+#c_classic{
+	width: 50%;
+	position: relative;
+	left: 200px;	
+}
+#onestar{
+	width: 60%;
+	position: relative;
+	left: 120px;	
+}
+#jackpurcell{
+	width: 60%;
+	position: relative;
+	left: 190px;	
+}
+#chuck70{
+	width: 60%;
+	position: relative;
+	left: 190px;	
+}
+#costum{
+	width: 60%;
+	position: relative;
+	left: 200px;
+}
+#xbrain{
+	width: 60%;
+	position: relative;
+	left: 200px;
+}
+#fastbreak{
+	width: 60%;
+	position: relative;
+	left: 200px;
+}
+#opening{
+	width: 60%;
+	position: relative;
+	left: 200px;
+}
+#sherpa{
+	width: 80%;
+	position: relative;
+	left: 90px;
+}
+
+#pride2018{
+	width: 60%;
+	position: relative;
+	left: 180px;
+}
+.titles{
+	color: purple;
+	font-family: Futura, Sans-Serif;
+	font-size: 2em; 
+}
+
+.links{
+	color: yellow;
+	font-family: Times, Sans-Serif;
+	font-size: 1em;
+}
+.saleslink{
+	color: yellow;
+	font-family: Times, Sans-Serif;
+	font-size: 0.8em;
+}
+.titlesII{
+	color: #19CFE8;
+	font-family: Times, Sans-Serif;
+	font-size: 0.8em;
+
+}
+
+

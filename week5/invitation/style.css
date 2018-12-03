@@ -1,0 +1,54 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: URL(pics/fondo.jpg)
+}
+
+
+#mainContainer{
+	width: 700px;
+	background-image: URL(pics/background.jpg)
+	margin: 0 auto;
+	padding: 0;
+}
+	
+.titles{
+	font-size: 60px;
+	color: #6A0888;
+	font-family: Times, Didot, Garamond, Bauhas, Serif;  
+	margin: 0 auto;
+	text-align: right;
+}
+#woman{
+	position: absolute;
+	top: 300;
+	margin: -100px;
+	padding: 0;
+	height: 80%;
+	left: 200px;
+}
+#champagne{
+	position: absolute;
+	top: 0px;
+	right: -100px;
+	margin: -100px;
+	padding: 0;
+	z-index: 3;
+	width: 30%;
+}
+#glass{
+	position: absolute;
+	top: 0;
+	margin: -100px;
+	padding: 0;
+	width: 30%;
+}
+#martini{
+	position: absolute;
+	top: 0;
+	left: 200px;
+	right: -100px;
+	margin: 0;
+	padding: 0;
+	height: 20%;
+}

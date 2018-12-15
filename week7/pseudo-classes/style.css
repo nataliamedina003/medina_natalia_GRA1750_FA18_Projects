@@ -1,0 +1,108 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: URL(pics/fondo.jpg);
+}
+
+
+#mainCointainer{
+	width: 700px;
+	
+}
+#Logo{
+	position: relative;
+	top: -200px;
+	left: 80px;
+	margin: 0;
+	padding: 0;
+	width: 80px;
+}
+
+#Home{
+	position:relative;
+	top: 0px;
+	left: 160px;
+	margin: 0;
+	padding: 0;
+	width: 70%;
+}
+#menu{
+	position:relative;
+	top: 200px;
+	left: -1152px;
+	margin: 0;
+	padding: 0;
+	width: 180px;
+}
+#Me{
+	position: relative;
+	top:140px;
+	left: 105px;
+	color: red;
+	font-size: 20px;
+	font-family: Rockwell Condensed Regular, Times, Garamond, Bauhas, Serif;  
+}
+#cheesybacon{
+	position: relative;
+	top: 0px;
+	left: 245px;
+	margin: 0;
+	padding: 0;
+	width: 35%;
+}
+#cheesytots{
+	position: relative;
+	top: 0px;
+	left: 237px;
+	margin: 0;
+	padding: 0;
+	width: 35%;
+}
+#tender{
+	position: relative;
+	top: 0px;
+	left: 245px;
+	margin: 0;
+	padding: 0;
+	width: 35%;
+}
+#pep{
+	position: relative;
+	top: 0px;
+	left: 237px;
+	margin: 0;
+	padding: 0;
+	width: 35%;
+}
+#cini{
+	position: relative;
+	top: 0px;
+	left: 245px;
+	margin: 0;
+	padding: 0;
+	width: 35%;
+}
+#fb{
+	position: relative;
+	top: -40px;
+	left: 437px;
+	margin: 0;
+	padding: 0;
+	width: 5%;
+}
+#ig{
+	position: relative;
+	top: -40px;
+	left: 437px;
+	margin: 0;
+	padding: 0;
+	width: 5%;
+}
+#twitter{
+	position: relative;
+	top: -40px;
+	left: 437px;
+	margin: 0;
+	padding: 0;
+	width: 4.8%;
+}
